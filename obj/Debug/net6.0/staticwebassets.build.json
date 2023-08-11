@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "rMeiIa1lXsy2bypOSkAplaScUrLB8kNbwiap4g5VniI=",
+  "Source": "lh-pets",
+  "BasePath": "_content/lh-pets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "lh-pets\\wwwroot",
+      "Source": "lh-pets",
+      "ContentRoot": "C:\\CODE\\lh-pets\\wwwroot\\",
+      "BasePath": "_content/lh-pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\CODE\\lh-pets\\wwwroot\\index.html",
+      "SourceId": "lh-pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\CODE\\lh-pets\\wwwroot\\",
+      "BasePath": "_content/lh-pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
